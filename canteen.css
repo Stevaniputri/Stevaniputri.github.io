@@ -1,0 +1,57 @@
+.kantin {
+    background-color: #e4e2e9;
+    height: 900px;
+    width: 100%;
+    box-sizing: cover;
+    box-shadow: 3px 3px 15px grey;
+    display: flex;
+    margin-top: 3%;
+}
+.boxa img {
+    height: 300px;
+    width: 400px;
+    margin-left: 20%;
+    border-radius: 20px;
+    margin-top: 35px;
+}
+.boxa {
+    background-color: #f5c869;
+    width: 50%;
+    height: 100%;
+}
+.boxa h1 {
+    padding-top: 5%;
+    line-height: 60px;
+    padding-left: 15%;
+    font-family: 'Poppins', sans-serif;
+}
+.boxa p {
+    padding-left: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
+    line-height: 25px;
+}
+.boxb img {
+    height: 300px;
+    width: 400px;
+    margin-left: 21%;
+    border-radius: 20px;
+    margin-top: 35px;
+}
+.boxb {
+    background-color: #e4e2e9;
+    width: 50%;
+    height: 100%;
+}
+.boxb h1 {
+    padding-left: 15%;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 5%;
+    line-height: 60px;
+}
+.boxb p {
+    padding-left: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
+    line-height: 25px;
+}
